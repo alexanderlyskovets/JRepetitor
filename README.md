@@ -1,4 +1,4 @@
-## Android client sketchs for the training application JRepetitor
+## Android client sketch for the training application JRepetitor
 - "JRepetitor" - server application is being developed on the Spring framework.
 - https://github.com/khasang/jrepetitor
 ## Наброски Android клиента для учебного приложения JRepetitor
